@@ -1,6 +1,3 @@
-
-
-
 var readlineSync = require("readline-sync");
 const chalk = require('chalk');
 
@@ -66,10 +63,4 @@ function showScores() {
 }
 welcome()
 game()
-var highScore =
-{
-  name: "Gurdial",
-  score: 5
-}
-
 showScores()
