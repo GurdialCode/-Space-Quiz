@@ -29,20 +29,20 @@ function play(question, answer) {
 }
 var questions = [
   {
-    question: "How many years ago did the Bigbang happend?",
-    answer: "13.7 B"
+    question: "Which year India became independence??",
+    answer: "15 August 1947"
   }, {
-    question: "Largest planet in the solar system?",
-    answer: "Saturn"
+    question: "when is republic day of india?",
+    answer: "26 jan"
   }, {
-    question: "How many Earths can fit in Saturn?",
-    answer: "700",
+    question: "What is Christmas Day called in India??",
+    answer: "long day",
   }, {
-    question: "First artificial satellite placed on the Earth's orbit?",
-    answer: "Sputnik 1",
+    question: "Who was the first CEO of Microsoft??",
+    answer: "Bill Gates",
   }, {
-    question: "First aircraft to leave our solar system?",
-    answer: " Voyager 1"
+    question: "who has created the javascript language?",
+    answer: "Brendan Eich"
   }
 ]
 function game() {
